@@ -32,6 +32,9 @@ python train.py
     <img src="comparison.jpg" width=80%/>
 </div>
 
+<div  align="center">    
+    <img src="T-SNE_visualization.jpg" width=80%/>
+</div>
 
 ### Citation
 ```
