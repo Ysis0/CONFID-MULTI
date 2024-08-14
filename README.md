@@ -4,7 +4,7 @@
 ### Overview
 
 <div  align="center">    
-    <img src="model.png" width=80%/>
+    <img src="model.png" width=100%/>
 </div>
 
 
