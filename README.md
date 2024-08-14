@@ -8,7 +8,7 @@
 </div>
 
 
-### Requirements
+### 🎆Requirements
 
 The proposed CONFID-MULTI is implemented with python 3.8 on a NVIDIA 3090 GPU. 
 
@@ -26,7 +26,7 @@ python train.py
 
 
 
-### Clustering Results
+### 🤝Clustering Results
 
 <div  align="center">    
     <img src="comparison.jpg" width=80%/>
