@@ -4,7 +4,7 @@
 ### Overview
 
 <div  align="center">    
-    <img src="./assets/model.png" width=80%/>
+    <img src="model.png" width=80%/>
 </div>
 
 
@@ -29,7 +29,7 @@ python train.py
 ### Clustering Results
 
 <div  align="center">    
-    <img src="./assets/comparison.png" width=100%/>
+    <img src="comparison.png" width=100%/>
 </div>
 
 
