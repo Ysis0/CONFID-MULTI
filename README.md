@@ -10,15 +10,14 @@
 
 ### 🎆Requirements
 
-The proposed CONFID-MULTI is implemented with python 3.8 on a NVIDIA 3090 GPU. 
-
 - torch==1.8.1
 - tqdm==4.59.0
 - numpy==1.19.2
 - munkres==1.1.4
 - scikit_learn==1.2.0
 
-
+### Implementation Details
+All the experiments are conducted on NVIDIA RTX 3090 GPU with 24 GB RAM, and the PyTorch framework. The clustering performance of proposed models is reported by ten runs, including mean and standard deviation. The training process could be divided into two steps: In the first step, learning robust node features from multiple complementary views via selected high-confidence samples to improve the model’s ability to distinguish between positive and negative samples. In the second step, the clustering objective guided distribution alignment for reliable samples is adopted to improve the final clustering performance.
 
 ### Quick Start
 
