@@ -10,9 +10,9 @@
 
 ### Requirements
 
-The proposed CONFID-MULTI is implemented with python 3.7 on a NVIDIA 3090 GPU. 
+The proposed CONFID-MULTI is implemented with python 3.8 on a NVIDIA 3090 GPU. 
 
-- torch==1.7.1
+- torch==1.8.1
 - tqdm==4.59.0
 - numpy==1.19.2
 - munkres==1.1.4
