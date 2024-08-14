@@ -15,17 +15,15 @@
 </div>
 
 <div  align="center">    
-    Figure 1: Overall framework of CCGC.
+    Figure 1: Overall framework of CONFID-MULTI.
 </div>
 
-### Clustering Results
+### Results
 
 <div  align="center">    
-    <img src="./assets/CCGC_result.png" width=100%/>
+    <img src="./assets/CONFID-MULTI_result.png" width=100%/>
 </div>
-<div  align="center">    
-    Table 1: Clustering results of our proposed CCGC and twelve baselines on six datasets.
-</div>
+
 
 
 
