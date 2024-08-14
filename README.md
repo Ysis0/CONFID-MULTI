@@ -3,8 +3,8 @@
 ### Overview
 
 <p align = "justify"> 
-We propose a cross-view constrastive graph clustering framework, which fully exploits the inherent complementarity of attributes and structural information within the graph topology, and effectively avoids complex structure-level and attribute-level data augmentation.
-• We design a reliable sample guided graph contrastive learning mechanism by constructing high-quality positive and negative sample pairs, effectively avoiding semantic drift and indiscriminative samples caused by introducing samples with misleading category information.
+• We propose a cross-view constrastive graph clustering framework, which fully exploits the inherent complementarity of attributes and structural information within the graph topology, and effectively avoids complex structure-level and attribute-level data augmentation.
+• We design a reliable sample guided graph contrastive learning mechanism by constructing high-quality positive and negative sample pairs, effectively avoiding semantic drift and indiscriminative samples caused by introducing samples with misleading category information.
 • To eliminate the semantic compatibility between graph contrastive learning and clustering tasks, we propose a simple yet effective self-optimizing module guided by reliable objective function. Extensive experiments on multiple datasets show that our proposed model could achieve state-of-the-art performance.
 
 
