@@ -38,7 +38,7 @@ python train.py
 If you find this project useful for your research, please cite your paper with the following BibTeX entry.
 
 ```
-@inproceedings{CCGC,
+@inproceedings{CONFID-MULTI,
   title={Enhancing Contrastive Graph Clustering with Reliable Sample Selection},
   author={},
   booktitle={},
