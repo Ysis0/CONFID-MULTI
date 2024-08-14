@@ -18,7 +18,7 @@
     Figure 1: Overall framework of CONFID-MULTI.
 </div>
 
-### Results
+### The clustering performance is reported by ten runs, including mean and standard deviation. The best and second-best results in the table are displayed in red and blue, respectively.
 
 <div  align="center">    
     <img src="./assets/comparison.png" width=100%/>
