@@ -21,8 +21,9 @@ All the experiments are conducted on NVIDIA RTX 3090 GPU with 24 GB RAM, and the
 
 ### Quick Start
 
+```
 python train.py
-
+```
 
 
 ### 🤝Clustering Results
