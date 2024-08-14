@@ -11,7 +11,7 @@
 
 
 <div  align="center">    
-    <img src="./assets/CCGC_model.png" width=80%/>
+    <img src="./assets/model.png" width=80%/>
 </div>
 
 <div  align="center">    
@@ -21,7 +21,7 @@
 ### Results
 
 <div  align="center">    
-    <img src="./assets/CONFID-MULTI_result.png" width=100%/>
+    <img src="./assets/comparison.png" width=100%/>
 </div>
 
 
